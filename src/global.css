@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* .button {
-	@apply bg-blue-500 p-4 font-medium text-white rounded-lg hover:bg-blue-600 transition-colors active:bg-blue-700;
-} */
+body {
+	@apply bg-[#09090A] text-zinc-100;
+}
+
