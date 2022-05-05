@@ -122,7 +122,7 @@ Entre em contato comigo por e-mail ou pelo meu LinkedIn:
 
 ## 📝 Licença
 
-<a href="https://github.com/mathrb22/feedback-widget/blob/main/LICENSE.md">
+<a href="https://github.com/mathrb22/feedback-widget/blob/main/LICENSE">
     <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/feedback-widget">
 </a>
 
