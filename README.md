@@ -19,7 +19,7 @@
    <a href="https://github.com/mathrb22/feedback-widget/pulls">
       <img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
    </a>
-   <a href="https://github.com/mathrb22/feedback-widget/blob/main/LICENSE.md">
+   <a href="https://github.com/mathrb22/feedback-widget/blob/main/LICENSE">
       <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/feedback-widget">
    </a>
    </br>
@@ -55,6 +55,8 @@
 
 Trata-se de um componente (Widget) de envio de feedback que pode ser acionado por meio de um botão flutuante ou por qualquer outro elemento da aplicação.
 Este, exibe ao usuário os tipos de feedback disponíveis, permitindo que ele envie uma mensagem descrevendo algum problema ou sugestão, além de também conseguir enviar uma captura de tela tirada automaticamente pelo componente.
+
+https://user-images.githubusercontent.com/62413443/166862753-21ddd54a-2d7f-4242-bc04-2733d8b72a5e.mp4
 
 ## 🚀 Tecnologias e ferramentas utilizadas
 
